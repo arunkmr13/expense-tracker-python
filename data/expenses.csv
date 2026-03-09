@@ -1,0 +1,120 @@
+id,date,amount,category,description
+1,2025-10-01,1350.00,Food,Monthly grocery run — BigBasket
+2,2025-10-02,180.00,Transport,Ola cab to client meeting
+3,2025-10-03,499.00,Entertainment,Amazon Prime annual renewal
+4,2025-10-04,650.00,Health,Gym monthly membership
+5,2025-10-05,1800.00,Utilities,Electricity bill
+6,2025-10-06,220.00,Food,Breakfast at Cafe Coffee Day
+7,2025-10-08,350.00,Transport,Petrol fill-up
+8,2025-10-09,899.00,Shopping,Noise-cancelling earbuds
+9,2025-10-11,430.00,Food,Team lunch — pizza
+10,2025-10-12,650.00,Utilities,Internet bill — Jio Fiber
+11,2025-10-14,300.00,Entertainment,Movie tickets — Pushpa 2
+12,2025-10-15,120.00,Food,Evening snacks
+13,2025-10-16,540.00,Health,Pharmacy — vitamins and supplements
+14,2025-10-18,2400.00,Shopping,Formal shirts x3 for office
+15,2025-10-19,160.00,Transport,Metro card top-up
+16,2025-10-21,780.00,Food,Birthday dinner outing
+17,2025-10-22,200.00,Other,Donation — local NGO
+18,2025-10-23,450.00,Food,Weekly vegetables and fruits
+19,2025-10-25,999.00,Entertainment,Spotify and YouTube Premium combo
+20,2025-10-26,310.00,Transport,Cab — airport drop
+21,2025-10-28,580.00,Food,Swiggy orders x4
+22,2025-10-30,750.00,Health,Doctor consultation
+23,2025-10-31,420.00,Other,Stationery and notebook
+24,2025-11-01,1500.00,Food,Monthly grocery run — DMart
+25,2025-11-02,650.00,Health,Gym monthly membership
+26,2025-11-03,180.00,Transport,Ola cab — late night
+27,2025-11-04,1800.00,Utilities,Electricity bill
+28,2025-11-05,650.00,Utilities,Internet bill
+29,2025-11-06,3500.00,Shopping,Diwali clothes shopping
+30,2025-11-07,1200.00,Shopping,Diwali sweets and dry fruits
+31,2025-11-08,500.00,Entertainment,Diwali celebration outing
+32,2025-11-10,260.00,Food,Cafe — work from cafe day
+33,2025-11-12,380.00,Transport,Petrol fill-up
+34,2025-11-13,890.00,Food,Zomato orders — whole week
+35,2025-11-15,450.00,Health,Eye checkup and spectacle cleaning
+36,2025-11-17,1499.00,Shopping,Winter jacket
+37,2025-11-18,340.00,Food,Weekly vegetables
+38,2025-11-19,200.00,Transport,Metro card top-up
+39,2025-11-20,799.00,Entertainment,Netflix subscription
+40,2025-11-22,620.00,Food,Office farewell dinner
+41,2025-11-24,180.00,Other,Haircut and grooming
+42,2025-11-25,950.00,Food,Home party groceries
+43,2025-11-26,430.00,Health,Pharmacy — cold and fever meds
+44,2025-11-28,160.00,Transport,Auto to railway station
+45,2025-11-29,500.00,Other,Gift for colleague
+46,2025-11-30,280.00,Food,Bakery — cake and snacks
+47,2025-12-01,1600.00,Food,Monthly grocery — BigBasket
+48,2025-12-01,650.00,Health,Gym monthly membership
+49,2025-12-02,1800.00,Utilities,Electricity bill
+50,2025-12-02,650.00,Utilities,Internet bill
+51,2025-12-03,420.00,Transport,Petrol fill-up
+52,2025-12-04,4500.00,Shopping,Christmas gifts for family
+53,2025-12-06,350.00,Food,Cafe — team catch-up
+54,2025-12-08,600.00,Entertainment,Christmas party tickets
+55,2025-12-10,280.00,Food,Weekly vegetables and fruits
+56,2025-12-11,520.00,Health,Dentist appointment
+57,2025-12-13,180.00,Transport,Cab — night out
+58,2025-12-14,2200.00,Shopping,New year outfit and accessories
+59,2025-12-16,750.00,Food,Zomato — holiday binge
+60,2025-12-18,199.00,Entertainment,Amazon Prime movie rental
+61,2025-12-20,380.00,Transport,Metro pass monthly
+62,2025-12-22,1100.00,Food,Christmas dinner groceries
+63,2025-12-24,900.00,Entertainment,New year Eve pre-party
+64,2025-12-25,450.00,Food,Christmas lunch — restaurant
+65,2025-12-26,300.00,Other,Year-end donation
+66,2025-12-28,680.00,Food,Post-Christmas party food
+67,2025-12-30,1500.00,Entertainment,New year Eve party
+68,2025-12-31,240.00,Transport,Cab — new year night
+69,2026-01-01,500.00,Food,New year brunch
+70,2026-01-02,650.00,Health,Gym membership — new year resolution
+71,2026-01-02,1400.00,Food,Monthly grocery run
+72,2026-01-03,1800.00,Utilities,Electricity bill
+73,2026-01-03,650.00,Utilities,Internet bill
+74,2026-01-05,350.00,Transport,Petrol
+75,2026-01-06,999.00,Shopping,Fitness tracker — new year goal
+76,2026-01-08,420.00,Food,Weekly vegetables
+77,2026-01-10,600.00,Health,Full body health checkup
+78,2026-01-12,220.00,Transport,Cab to airport
+79,2026-01-13,399.00,Entertainment,Hotstar subscription
+80,2026-01-14,750.00,Food,Pongal celebration lunch
+81,2026-01-16,480.00,Shopping,New office bag
+82,2026-01-18,310.00,Food,Zomato — 3 orders
+83,2026-01-20,200.00,Transport,Metro card top-up
+84,2026-01-22,550.00,Health,Physiotherapy session
+85,2026-01-24,180.00,Other,Haircut
+86,2026-01-25,890.00,Food,Republic day outing — restaurant
+87,2026-01-26,340.00,Entertainment,Movie — IMAX
+88,2026-01-28,420.00,Food,Weekly vegetables and groceries
+89,2026-01-30,260.00,Transport,Cab — doctor visit
+90,2026-02-01,899.00,Entertainment,Netflix and Spotify bundle
+91,2026-02-01,600.00,Health,Gym monthly fee
+92,2026-02-03,450.00,Food,Lunch at office canteen
+93,2026-02-05,1800.00,Utilities,Electricity bill
+94,2026-02-05,650.00,Utilities,Internet bill
+95,2026-02-07,1200.00,Food,Weekly grocery run
+96,2026-02-08,320.00,Transport,Ola cab to airport
+97,2026-02-10,180.00,Transport,Metro monthly pass top-up
+98,2026-02-12,3200.00,Shopping,New running shoes — Nike
+99,2026-02-14,250.00,Entertainment,Movie tickets x2 — Valentines
+100,2026-02-14,850.00,Food,Valentines day dinner
+101,2026-02-18,380.00,Health,Pharmacy — vitamins
+102,2026-02-20,200.00,Other,Birthday card and gift wrap
+103,2026-02-21,750.00,Food,Team dinner outing
+104,2026-02-22,420.00,Transport,Petrol fill-up
+105,2026-02-24,560.00,Food,Zomato — weekend orders
+106,2026-02-25,990.00,Shopping,Books from Amazon
+107,2026-02-26,300.00,Health,Yoga class — 2 sessions
+108,2026-02-28,450.00,Food,Month-end grocery top-up
+109,2026-03-01,650.00,Health,Gym monthly fee
+110,2026-03-01,1500.00,Food,Monthly grocery run — BigBasket
+111,2026-03-02,1800.00,Utilities,Electricity bill
+112,2026-03-02,650.00,Utilities,Internet bill
+113,2026-03-03,399.00,Entertainment,Netflix subscription
+114,2026-03-04,380.00,Transport,Petrol fill-up
+115,2026-03-05,280.00,Food,Breakfast meeting — cafe
+116,2026-03-05,1800.00,Shopping,Holi outfits and colours
+117,2026-03-06,600.00,Entertainment,Holi party tickets
+118,2026-03-06,950.00,Food,Holi celebration lunch
+119,2026-03-06,420.00,Transport,Cab — Holi party and back
